@@ -1,0 +1,5 @@
+noun = input("Give me a noun: ")
+verb = input("Give me a verb: ")
+adjective = input("Give me a adjective: ")
+place = input("Give me a place: ")
+print("Today I saw a " + adjective + " " + noun + " that decided to " + verb + " at the " + place + "!")
